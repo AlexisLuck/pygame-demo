@@ -7,3 +7,15 @@
 ```bash
 pip install -r requiments.txt
 ```
+
+### run pygame 
+
+```bash
+python game/main.py
+```
+
+### build html
+
+```bash
+pygbag --build game
+```
